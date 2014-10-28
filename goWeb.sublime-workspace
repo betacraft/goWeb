@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"As",
+				"Asker	models.User ν"
+			],
+			[
+				"Ask",
+				"Askees	[]User ν"
+			],
+			[
+				"Asker",
+				"Asker	User ν"
+			],
+			[
+				"Hand",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"JSONRe",
+				"JSONResponse	map[string]interface{} ʈ"
+			],
+			[
+				"Que",
+				"QuestionId	int64 ν"
+			],
+			[
+				"Ass",
+				"Assign	*gorm.DB ƒ"
+			],
+			[
+				"Do",
+				"DoNotDisturbEndTime	time.Time ν"
+			],
+			[
+				"Don",
+				"DoNotDisturbStartTime	time.Time ν"
+			],
+			[
+				"f",
+				"findOrCreate	error ƒ"
+			],
+			[
+				"int",
+				"int64	built-in ʈ"
+			],
+			[
+				"invit",
+				"invite	*invitation.Invite ν"
+			],
+			[
+				"re",
+				"Render	interface ¡"
+			],
+			[
+				"err",
+				"err	 ν"
+			],
+			[
+				"er",
+				"err	 ν"
+			],
+			[
+				"d",
+				"db	*gorm.DB ν"
+			],
+			[
+				"invi",
+				"invite	invitation.Invite ν"
+			],
+			[
+				"inv",
+				"invite	invitation.Invite ν"
+			],
+			[
+				"INvi",
+				"invite	 ν"
+			],
+			[
+				"in",
+				"invitation	 package ρ"
+			],
+			[
+				"lo",
+				"log	 package ρ"
+			],
+			[
+				"UR",
+				"URL	*url.URL ν"
+			],
+			[
+				"U",
+				"URL	*url.URL ν"
+			],
+			[
+				"For",
+				"Form	url.Values ν"
+			],
+			[
+				"POs",
+				"PostForm	url.Values ν"
+			],
+			[
+				"form",
+				"FormValue	string ƒ"
+			],
+			[
+				"Re",
+				"RequestURI	string ν"
+			],
+			[
+				"aut",
+				"authenticateUserByHandleAndPassword	 ƒ"
+			],
+			[
+				"au",
+				"authenticateUserForWeb	 ƒ"
+			],
+			[
+				"authen",
+				"authenticateUser	 ƒ"
+			],
+			[
+				"auth",
+				"authenticateUserByAuthKey	error ƒ"
+			],
+			[
+				"a",
+				"acerender	 package ρ"
+			],
+			[
+				"L",
+				"Location	Location ν"
+			],
+			[
+				"uint",
+				"uint64	built-in ʈ"
+			],
+			[
+				"SOci",
+				"SocialIdentity	SocialIdentity ν"
+			],
+			[
+				"Pro",
+				"Profile	Profile ν"
+			],
+			[
+				"Loc",
+				"LocationId	uint64 ν"
+			],
+			[
+				"get",
+				"getUserByAuthKey	*User, error ƒ"
+			],
+			[
+				"log",
+				"logger	*log.Logger ν"
+			],
+			[
+				"S",
+				"String	string ν"
+			],
+			[
+				"Nu",
+				"NullString	struct ʈ"
+			],
+			[
+				"New",
+				"NewV4	u *uuid.UUID, err error ƒ"
+			],
+			[
+				"Ti",
+				"Time	struct ʈ"
+			],
+			[
+				"e",
+				"Error	error ν"
+			],
+			[
+				"C",
+				"findOrCreateLocation	 ƒ"
+			],
+			[
+				"st",
+				"State	string ν"
+			],
+			[
+				"First",
+				"FirstOrCreate	*gorm.DB ƒ"
+			],
+			[
+				"Fir",
+				"FirstOrInit	*gorm.DB ƒ"
+			],
+			[
+				"fin",
+				"FirstOrInit	*gorm.DB ƒ"
+			],
+			[
+				"json",
+				"jsonUser	map[string]interface{} ν"
+			],
+			[
+				"req",
+				"requestBody	[]byte ν"
+			],
+			[
+				"Clas",
+				"ClassicMartini	struct ʈ"
+			],
+			[
+				"Pi",
+				"Println	 ƒ"
+			],
+			[
+				"uin",
+				"uint64	built-in ʈ"
+			],
+			[
+				"Prin",
+				"Println	 ƒ"
+			],
+			[
+				"io",
+				"ioutil	 package ρ"
+			],
+			[
+				"F",
+				"Form	url.Values ν"
+			],
+			[
+				"Pr",
+				"Println	 ƒ"
+			],
+			[
+				"G",
+				"Group	 ƒ"
+			],
+			[
+				"rou",
+				"Router	interface ¡"
+			],
+			[
+				"new",
+				"NewRouter	martini.Router ƒ"
+			],
+			[
+				"Ren",
+				"Render	interface ¡"
+			],
+			[
+				"Rou",
+				"Router	interface ¡"
+			],
+			[
+				"D",
+				"DB	struct ʈ"
+			],
+			[
+				"init",
+				"intializeDatabase	error ƒ"
+			],
+			[
+				"User",
+				"UserPreferences	struct ʈ"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"respo",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Fr",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"Get",
+				"GetUserForAuthKey	error ƒ"
+			],
+			[
+				"res",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Na",
+				"FirstName	string ν"
+			],
+			[
+				"Fprint",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"Handl",
+				"Handle	 ƒ"
+			],
+			[
+				"Handle",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"FPr",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"Res",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"po",
+				"PostFormValue	string ƒ"
+			],
+			[
+				"Pos",
+				"PostFormValue	string ƒ"
+			],
+			[
+				"Done",
+				"DoNotDisturbTimeEnd	time.Time ν"
+			],
+			[
+				"No",
+				"Now	time.Time ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSublime: ",
+				"GoSublime: Activate 9o"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/akshay/CodeBase/goWeb/src/goWeb"
+	],
+	"file_history":
+	[
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/yvasiyarov/go-metrics/registry.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/gcm/sender.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/encode_test.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/yvasiyarov/go-metrics/writer.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/notify.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/yvasiyarov/gorelic/nut.json",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/encode.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/yosssi/ace/empty_element.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Procfile",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/models/profile.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/routes.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/models/user.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/controllers/requestHandler.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/logger/loggly.go",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/user_dashboard_page.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/jinzhu/gorm/field.go",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/models/invite.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/gin-bin",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/yvasiyarov/gorelic/gc_metrics.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/migrations/migrations.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/topic/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/topic/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/topic/topic.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/invitation/invite.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/qa/topic.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/landing_page.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/qa/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/user_dashboard_page.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/qa/question.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/login_page.ace",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/invitation/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/invitation/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/middlewares.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/kernel.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/home.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/login.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/keen_webapp.sublime-project",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/404.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/view/templates/dashboard.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/.gitignore",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/user.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/404.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/templates/home.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/templates/404.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/web_controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/views/templates/base.ace",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/expertise.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/profile.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/README.md",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/qa/router.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/db_helper.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/qa/answer.go",
+		"/Users/akshay/Downloads/polymer-tutorial-master/README.md",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/user_windows.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/user_posix.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/social_identity.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/utils/votable.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/user/location.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/lib/pq/README.md",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/martini-contrib/render/fixtures/basic/delims.tmpl",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/martini-contrib/render/fixtures/basic/hypertext.html",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/codegangsta/inject/update_readme.sh",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/jinzhu/gorm/dialect.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/jinzhu/gorm/update_test.go",
+		"/Users/akshay/CodeBase/keen-server/src/keen_webapp/Godeps/_workspace/src/github.com/martini-contrib/render/fixtures/custom_funcs/index.tmpl",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/GoSublime/osx-x64/log.txt",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/user/location.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/config/config.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/db/migrations.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/dbhelper/migrations.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/dbhelper/dbhelper.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/db/db.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/db_helper/migrations.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/db_helper/db_helper.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/main.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/user/user.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/user/controller.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/database/database.go",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/Procfile",
+		"/Users/akshay/CodeBase/keen-server/src/webapp/user/preferences.go",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/akshay/CodeBase/neon/property.go",
+		"/Users/akshay/Tools/cayley_0.3.1_darwin_amd64/30kmoviedata.nq",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/user/user.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/Procfile",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/topic/topic.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/user/controller.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/question/topic.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/question/question.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/question/controller.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/topics/topic.go",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/Default (OSX).sublime-keymap",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/utils/http_utils/http_utils.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/config/config.go",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/README.md",
+		"/Users/akshay/CodeBase/quest-server/src/webapp/user/profile.go",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/akshay/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/Users/akshay/CodeBase/keen-server/src/keen_webapp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user.Update",
+			"Update",
+			"SendChatRequest",
+			"AddAskee",
+			"associat",
+			"color",
+			"..\n",
+			"lead",
+			"Keen",
+			"submit",
+			"\":\n",
+			"404 page not found",
+			"nil",
+			"database",
+			"db",
+			"Header",
+			"Type",
+			"\"\n",
+			"	\n",
+			"18"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/akshay/CodeBase/keen-server/src/keen_webapp":
+	{
+		"height": 142.0
+	},
+	"output.9o:///Users/akshay/CodeBase/keen-server/src/keen_webapp/user":
+	{
+		"height": 142.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 142.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "goWeb.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ans",
+				"models/answer.go"
+			],
+			[
+				"",
+				"controllers/answersController.go"
+			],
+			[
+				"wra",
+				"gcm/wrapper.go"
+			],
+			[
+				"r",
+				"routes.go"
+			],
+			[
+				"q",
+				"controllers/questionController.go"
+			],
+			[
+				"rou",
+				"routes.go"
+			],
+			[
+				"ques",
+				"controllers/questionController.go"
+			],
+			[
+				"sele",
+				"selector/selector.go"
+			],
+			[
+				"user",
+				"models/user.go"
+			],
+			[
+				"qu",
+				"models/question.go"
+			],
+			[
+				"que",
+				"controllers/questionController.go"
+			],
+			[
+				"wr",
+				"gcm/wrapper.go"
+			],
+			[
+				"jsonre",
+				"controllers/jsonResponder.go"
+			],
+			[
+				"json",
+				"controllers/jsonResponder.go"
+			],
+			[
+				"cont",
+				"controllers/controllerHelper.go"
+			],
+			[
+				"reques",
+				"controllers/requestHandler.go"
+			],
+			[
+				"se",
+				"selector/selector.go"
+			],
+			[
+				"loca",
+				"models/location.go"
+			],
+			[
+				"usr",
+				"models/user.go"
+			],
+			[
+				"prof",
+				"models/profile.go"
+			],
+			[
+				"selec",
+				"selector/selector.go"
+			],
+			[
+				"usercon",
+				"controllers/userController.go"
+			],
+			[
+				"an",
+				"models/answer.go"
+			],
+			[
+				"respon",
+				"controllers/responder.go"
+			],
+			[
+				"answ",
+				"models/answer.go"
+			],
+			[
+				"route",
+				"routes.go"
+			],
+			[
+				"topi",
+				"models/topic.go"
+			],
+			[
+				"ker",
+				"kernel.go"
+			],
+			[
+				"p",
+				"models/profile.go"
+			],
+			[
+				"pro",
+				"Procfile"
+			],
+			[
+				"loc",
+				"models/location.go"
+			],
+			[
+				"soc",
+				"models/social_identity.go"
+			],
+			[
+				"u",
+				"models/user.go"
+			],
+			[
+				"lo",
+				"models/location.go"
+			],
+			[
+				"con",
+				"user/controller.go"
+			],
+			[
+				"us",
+				"user/user.go"
+			],
+			[
+				"qa",
+				"qa/answer.go"
+			],
+			[
+				"k",
+				"kernel.go"
+			],
+			[
+				"router",
+				"user/router.go"
+			],
+			[
+				"co",
+				"user/controller.go"
+			],
+			[
+				"middl",
+				"middlewares.go"
+			],
+			[
+				"expe",
+				"user/expertise.go"
+			],
+			[
+				"kerne",
+				"kernel.go"
+			],
+			[
+				"soci",
+				"user/social_identity.go"
+			],
+			[
+				"kern",
+				"kernel.go"
+			],
+			[
+				"prefe",
+				"Godeps/_workspace/src/github.com/martini-contrib/render/fixtures/basic/delims.tmpl"
+			],
+			[
+				"contro",
+				"user/controller.go"
+			],
+			[
+				"d",
+				"db_helper.go"
+			],
+			[
+				"contr",
+				"user/controller.go"
+			],
+			[
+				"use",
+				"user/user.go"
+			],
+			[
+				"mig",
+				"migrations/migrations.go"
+			],
+			[
+				"m",
+				"middlewares.go"
+			],
+			[
+				"migr",
+				"migrations/migrations.go"
+			],
+			[
+				"mid",
+				"middlewares.go"
+			],
+			[
+				"db",
+				"db_helper.go"
+			],
+			[
+				"mod",
+				"user/model.go"
+			],
+			[
+				"mi",
+				"middlewares.go"
+			],
+			[
+				"c",
+				"user/controller.go"
+			],
+			[
+				"ro",
+				"user/router.go"
+			],
+			[
+				"oru",
+				"user/router.go"
+			],
+			[
+				"da",
+				"database/database.go"
+			],
+			[
+				"ma",
+				"main.go"
+			],
+			[
+				"main",
+				"main.go"
+			],
+			[
+				"confi",
+				"config/config.go"
+			],
+			[
+				"mai",
+				"main.go"
+			],
+			[
+				"mes",
+				"question/message.go"
+			],
+			[
+				"cone",
+				"question/conversation.go"
+			],
+			[
+				"cover",
+				"question/conversation.go"
+			],
+			[
+				"htt",
+				"utils/http_utils/http_utils.go"
+			],
+			[
+				"moa",
+				"main.go"
+			],
+			[
+				"http",
+				"utils/http_utils/http_utils.go"
+			],
+			[
+				"top",
+				"topic/topic.go"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
